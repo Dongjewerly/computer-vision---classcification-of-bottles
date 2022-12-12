@@ -1,9 +1,14 @@
-# computer-vision---classcification-of-bottles
 
-al_project
+AI+x: Deep learning Project
 -
-<img width="80" src="https://github.com/Dongjewerly/computer-vision---classcification-of-bottles/issues/1#issue-1492424302/
-" />
+    Merry X-Mas :)
+    Dec.13
+
+
+video: ""
+<img width="1000" src="https://user-images.githubusercontent.com/117716335/207118416-177fd306-a708-4779-ac1c-f53d3c0d5ef3.png"/>
+
+# computer-vision---classcification-of-bottles
 
 팀원
 -
