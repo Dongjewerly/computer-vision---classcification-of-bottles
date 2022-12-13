@@ -54,7 +54,11 @@ Introduction
 https://youtu.be/1rGSle4hICs
 
 현재 갈색 플라스틱 병들 중 흰색 플라스틱 병들을 골라내야하는 상황
+
+
 문제 해결 : 갈색 , 흰색 플라스틱 병들을 인식하기
+
+
 사용 할 것 : Mask R cnn , 이미지 라벨링 사이트
 
 
