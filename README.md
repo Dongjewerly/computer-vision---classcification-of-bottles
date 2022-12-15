@@ -22,7 +22,8 @@ abstract :
 -
 - Introduction
 - Dataset
-- 3
+- Method
+- 4
 
 Introduction
 -
@@ -74,4 +75,13 @@ Dataset
 -
 
 
-우선 유튜브에 공정 과정을 녹화하여 train, validation 이미지 데이터를 준비한다.
+우선 유튜브에 공정 과정을 녹화하여 train(20개), validation(5개) 이미지 데이터를 준비한다.
+
+
+Method
+-
+
+- Mask R cnn  
+
+
+Mask R cnn = Fast R cnn + Faster R cnn + Fully Convolution Network
