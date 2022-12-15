@@ -84,4 +84,15 @@ Method
 - Mask R cnn  
 
 
+<img width = "900" src = "https://user-images.githubusercontent.com/117716335/207835325-0316a01e-f5f9-423b-bd62-97be1c7afaaf.png" />
+
+2017년 ICCV 컴퍼런스 논문에서 발표된 논문인 MASK R CNN은 object detection 그리고 instance segmentation 을 위해 고안된 딥러닝 모델이다. FaceBook AI Reserarch의 연구원들이 개발했으며 의료영상 분석, 위성 영상 분석, 자율주행차 등 다양한 분야에서 사용하고 있다.
+
+
 Mask R cnn = Fast R cnn + Faster R cnn + Fully Convolution Network
+
+
+Referencd
+-
+
+Kaiming He, G. Gkioxari, P. Dollar and R. Girshick. Mask R-CNN. In ICCV. 2017
